@@ -1,4 +1,4 @@
-# 🐍 Python Full Stack Daily Topics
+# 🐍 Python Full Stack 
 
 Welcome to my personal Python Full Stack Learning Journey! 🚀  
 This repository contains **daily topic-wise notes, code snippets, and practice exercises** as I explore the complete Python full stack development path — from core Python to web frameworks, databases, and beyond.
